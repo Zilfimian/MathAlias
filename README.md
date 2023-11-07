@@ -1,5 +1,8 @@
 # MathAlias
 
+![Uploading GreenBrain.JPG…]()
+
+
 Welcome to MathAlias, the mathematical version of the popular game Alias. In this game, players compete in teams, taking turns describing various mathematical terms without using the actual term itself. The goal is to help teammates guess the word within a time limit, earning points for correct answers. Be prepared for an exciting and educational challenge!
 
 ## Game Rules
