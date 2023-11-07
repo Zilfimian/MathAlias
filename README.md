@@ -11,6 +11,10 @@ Welcome to MathAlias, the mathematical version of the popular game Alias. In thi
 ## Database
 The MathAlias repository contains an editable database of mathematical terms used within the game. Feel free to contribute by adding, modifying, or improving the existing database to enhance the gaming experience for all users.
 
+ * [The main book for words](https://www.altstu.ru/media/s/astu14.pdf)
+ * [The main database of words](https://docs.google.com/spreadsheets/d/1OX6PPb5jA9TKvNIduIc5_IiaPiP9h5ckD7vCrK21wAM/edit?usp=sharing)
+
+
 ## Multilingual Support
 MathAlias is available in three languages - Armenian, Russian, and English. Players can enjoy the game in their preferred language, making it accessible to a wider audience and promoting mathematical learning across different cultures.
 
