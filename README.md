@@ -15,6 +15,7 @@ Welcome to MathAlias, the mathematical version of the popular game Alias. In thi
 The MathAlias repository contains an editable database of mathematical terms used within the game. Feel free to contribute by adding, modifying, or improving the existing database to enhance the gaming experience for all users.
 
  * [The main book for words](https://www.altstu.ru/media/s/astu14.pdf)
+ * [Another book for words](https://e-library.namdu.uz/22%20%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/Dictionary%20of%20mathematics%20terms%20Douglas%20Downing.pdf)
  * [The main database of words](https://docs.google.com/spreadsheets/d/1OX6PPb5jA9TKvNIduIc5_IiaPiP9h5ckD7vCrK21wAM/edit?usp=sharing)
 
 
