@@ -1,6 +1,6 @@
 # MathAlias
 
-![GreenBrain](https://github.com/Zilfimian/MathAlias/assets/25430269/d91f0918-17a4-472c-8ccb-347e1ed9cf31)
+![GreenBrain](https://github.com/Zilfimian/MathAlias/assets/25430269/3330c1ae-77c2-4ffe-ab16-7d0350cd8807)
 
 
 Welcome to MathAlias, the mathematical version of the popular game Alias. In this game, players compete in teams, taking turns describing various mathematical terms without using the actual term itself. The goal is to help teammates guess the word within a time limit, earning points for correct answers. Be prepared for an exciting and educational challenge!
