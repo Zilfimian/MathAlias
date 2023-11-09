@@ -7,9 +7,19 @@ Welcome to MathAlias, the mathematical version of the popular game Alias. In thi
 
 ## Game Rules
 - Players form teams and take turns describing mathematical terms without using the actual term.
-- Descriptions can include equations, properties, related concepts, or historical contexts, but not the term itself.
+- The describer can use any kind of explanation or clue, including equations, properties, related concepts, or historical contexts, but cannot use the term itself.
 - Teams earn points for correct guesses within the time limit, and lose points for incorrect guesses or passing.
-- Customize the game with different difficulty levels and language options for an inclusive and engaging experience.
+- Incorrect guesses or passing within the time limit result in a point deduction or loss of turn.
+
+## Options (Paid version):
+ 
+- Timer settings for each round.
+- Adjustable difficulty levels to cater to players of different mathematical proficiency.
+- Inclusion of power-ups or hints for challenging terms.
+- Ability to create custom word lists or categories, allowing players to focus on specific areas of mathematics.
+- Incorporate multiplayer modes, enabling users to compete with friends or players worldwide.
+- Integration with social media platforms for sharing scores or inviting friends to play.
+- Daily challenges or puzzles to keep players engaged and motivated.
 
 ## Database
 The MathAlias repository contains an editable database of mathematical terms used within the game. Feel free to contribute by adding, modifying, or improving the existing database to enhance the gaming experience for all users.
@@ -22,11 +32,8 @@ The MathAlias repository contains an editable database of mathematical terms use
 ## Multilingual Support
 MathAlias is available in three languages - Armenian, Russian, and English. Players can enjoy the game in their preferred language, making it accessible to a wider audience and promoting mathematical learning across different cultures.
 
-## Code
-Explore our well-documented and organized codebase, designed to ensure a seamless gaming experience for all users. Join us in improving and expanding the game's functionality and features.
-
-## Contributing
-Feel free to submit pull requests or open issues for any suggestions, bug fixes, or enhancements.
+## Code (TBA)
+Explore our well-documented and organized codebase, designed to ensure a seamless gaming experience for all users. 
 
 ## Contact
 For any inquiries or questions, please reach out to us at MathAlias@gmail.com.
