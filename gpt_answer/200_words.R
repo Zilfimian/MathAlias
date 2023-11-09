@@ -1,7 +1,7 @@
 library(stringr)
 library(dplyr)
 
-Sys.setenv("OPENAI_API_KEY" = "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")
+Sys.setenv("OPENAI_API_KEY" = "***")
 
 load("Names_data_old.rda")
 Names_data_new <- NULL
