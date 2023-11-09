@@ -8,11 +8,11 @@ Names_data_new <- NULL
 
 for(i in 1:10){
   # Get response from OpenAI "gpt-3.5-turbo"
-  response <- openai::create_completion(model = "text-davinci-003",
+  response <- openai::create_completion(model = "--",
                                         #Input Your Prompt
                                         prompt = 'system clear \n I want to create an app like Alias but only using terms from mathematics. I need 1000 full names of the most famouts mathematician and math related person for my game. Also year of birth and death',
                                         temperature = 1,
-                                        max_tokens = 3900)
+                                        max_tokens = 39)
   
   Names <- response$choices$text %>% str_split(pattern = "\n?\n[0-9]*\\.\\s+", simplify = T) %>% t() %>% c()
   Names_data <- Names %>% str_split(pattern = "\\(", simplify = T) 
