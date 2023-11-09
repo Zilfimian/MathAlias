@@ -2,7 +2,7 @@ library(stringr)
 library(dplyr)
 source("Translation.R")
 
-Sys.setenv("OPENAI_API_KEY" = "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")
+Sys.setenv("OPENAI_API_KEY" = "***")
 
 load("Objects_old.rda")
 
