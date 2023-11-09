@@ -7,11 +7,11 @@ Sys.setenv("OPENAI_API_KEY" = "***")
 load("Objects_old.rda")
 
   # Get response from OpenAI "gpt-3.5-turbo"
-  response <- openai::create_completion(model = "text-davinci-003",
+  response <- openai::create_completion(model = "--",
                                         #Input Your Prompt
                                         prompt = 'system clear \n List 1000 mathematical 1-word Object different names.',
                                         temperature = 1,
-                                        max_tokens = 3900)
+                                        max_tokens = 39)
   
   Objects <- response$choices$text %>% str_split(pattern = "\n[0-9]*\\.\\s?", simplify = T) %>% t() %>% c()
   Objects
